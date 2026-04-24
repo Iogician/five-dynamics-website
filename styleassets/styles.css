@@ -105,16 +105,16 @@ overflow: hidden;
     "content content content"
     "footer footer footer";
   height: auto;
-  max-width: 92vw;
+  max-width: 94vw;
   margin-left: auto;
   margin-right: auto;    
   box-sizing: border-box;
   align-content: start;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;  
-  gap: 3px;
+  gap: 5px;
   background-color: ;
-  padding: 3px;
+  padding: 5px;
 }
 
 .container > div {
