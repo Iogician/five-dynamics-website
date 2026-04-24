@@ -112,9 +112,9 @@ overflow: hidden;
   align-content: start;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;  
-  gap: 5px;
+  gap: 3px;
   background-color: ;
-  padding: 5px;
+  padding: 3px;
 }
 
 .container > div {
